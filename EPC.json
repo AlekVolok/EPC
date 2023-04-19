@@ -1,0 +1,8 @@
+{
+    "hpath": "$EPC",
+    "env": [
+        {
+            "EPC_WELCOME" : "G:/My Drive/Scripts/Houdini/EPC"
+        }
+    ]
+}
